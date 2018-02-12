@@ -1,0 +1,32 @@
+[debug] [2018-02-11T23:04:20.891Z] ----------------------------------------------------------------------
+[debug] [2018-02-11T23:04:20.893Z] Command:       /usr/bin/nodejs /home/laboratoria/.npm-global/bin/firebase serve
+[debug] [2018-02-11T23:04:20.894Z] CLI Version:   3.17.4
+[debug] [2018-02-11T23:04:20.894Z] Platform:      linux
+[debug] [2018-02-11T23:04:20.894Z] Node Version:  v7.10.1
+[debug] [2018-02-11T23:04:20.894Z] Time:          Sun Feb 11 2018 20:04:20 GMT-0300 (CLST)
+[debug] [2018-02-11T23:04:20.894Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-02-11T23:04:20.905Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-02-11T23:04:20.906Z] > authorizing via signed-in user
+[debug] [2018-02-11T23:04:20.908Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/haribol-app  
+  
+ Sun Feb 11 2018 20:04:20 GMT-0300 (CLST)
+[debug] [2018-02-11T23:04:21.712Z] <<< HTTP RESPONSE 200
+[debug] [2018-02-11T23:04:21.715Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/haribol-app/tokens  
+  
+ Sun Feb 11 2018 20:04:21 GMT-0300 (CLST)
+[debug] [2018-02-11T23:04:22.374Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from '/home/laboratoria'...
+[info] 
+[debug] [2018-02-11T23:04:22.383Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/haribol-app  
+  
+ Sun Feb 11 2018 20:04:22 GMT-0300 (CLST)
+[debug] [2018-02-11T23:04:23.338Z] <<< HTTP RESPONSE 200
+[debug] [2018-02-11T23:04:23.339Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/779719796705/clients/_:getWebAppConfig  
+  
+ Sun Feb 11 2018 20:04:23 GMT-0300 (CLST)
+[debug] [2018-02-11T23:04:24.542Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: public
+[info] ✔  hosting: Local server: http://localhost:5000
+
